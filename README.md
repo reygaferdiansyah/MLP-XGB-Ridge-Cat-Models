@@ -1,4 +1,4 @@
-# House Price Prediction Models
+# House Price Prediction With MLP-XGB-Ridge-Cat-Models
 
 [![PyPI version](https://badge.fury.io/py/colabcode.svg)](https://badge.fury.io/py/colabcode)
 ![python version](https://img.shields.io/badge/python-3.6%2C3.7%2C3.8-blue?logo=python)
