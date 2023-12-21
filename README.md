@@ -38,7 +38,7 @@ Each model is implemented in a separate script or notebook for clarity and ease 
 3. Navigate to the project directory:
 
     ```bash
-    
+    cd MLP-XGB-Ridge-Cat-Models
     ```
 
 4. Install dependencies:
