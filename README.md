@@ -38,7 +38,7 @@ Each model is implemented in a separate script or notebook for clarity and ease 
 3. Navigate to the project directory:
 
     ```bash
-    cd house-price-models
+    [cd house-price-models](https://github.com/reygaferdiansyah/MLP-XGB-Ridge-Cat-Models/tree/main)
     ```
 
 4. Install dependencies:
