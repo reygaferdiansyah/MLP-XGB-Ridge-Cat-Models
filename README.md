@@ -38,7 +38,7 @@ Each model is implemented in a separate script or notebook for clarity and ease 
 3. Navigate to the project directory:
 
     ```bash
-    [cd house-price-models](https://github.com/reygaferdiansyah/MLP-XGB-Ridge-Cat-Models/tree/main)
+    
     ```
 
 4. Install dependencies:
@@ -46,6 +46,13 @@ Each model is implemented in a separate script or notebook for clarity and ease 
     ```bash
     pip install -r requirements.txt
     ```
+## Guide to Opening and Copying Code in Google Colab
+
+To save and run the notebook, select the "File" option in the Colab menu and choose "Save" or "Save a copy in Drive" if you want to make a copy in Google Drive.
+
+You can also share the notebook with others or get a link for future access.
+
+By following the steps above, you can easily open, copy, and run code in Google Colab. Be sure to tailor these instructions to the specific needs of your tutorial or project.
 
 ## Usage
 
