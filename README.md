@@ -32,7 +32,7 @@ Each model is implemented in a separate script or notebook for clarity and ease 
 2. Clone this repository:
 
     ```bash
-    git clone https://github.com/username/house-price-models.git
+    gh repo clone reygaferdiansyah/MLP-XGB-Ridge-Cat-Models
     ```
 
 3. Navigate to the project directory:
