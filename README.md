@@ -12,8 +12,6 @@ This project explores the use of multiple machine learning models, including Mul
 - [Installation](#installation)
 - [Usage](#usage)
 - [Dataset](#dataset)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Models
 
